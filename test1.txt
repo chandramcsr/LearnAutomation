@@ -1,0 +1,10 @@
+ Volume in drive D is Data
+ Volume Serial Number is 9AAF-4929
+
+ Directory of D:\Personal\Gitproject
+
+11/02/2016  07:45 PM    <DIR>          .
+11/02/2016  07:45 PM    <DIR>          ..
+11/02/2016  07:45 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  134,499,323,904 bytes free
